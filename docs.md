@@ -77,7 +77,7 @@ A comprehensive personalized learning dashboard application focusing on frontend
 
 <aside>
 
-**Primary Help:** Samuel Amoh Baffour for help React
+**Primary Help:** Samuel Amoh Baffour for help in React Js
 
 
 </aside>
