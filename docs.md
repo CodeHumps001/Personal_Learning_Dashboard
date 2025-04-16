@@ -77,14 +77,9 @@ A comprehensive personalized learning dashboard application focusing on frontend
 
 <aside>
 
-**Primary Mentor:** Samuel Amoh Baffour
+**Primary Help:** Samuel Amoh Baffour for help React
 
-Weekly mentorship sessions focusing on:
 
-- React.js best practices
-- Component architecture
-- State management strategies
-- Performance optimization
 </aside>
 
 ## Technical Skills Development Focus
